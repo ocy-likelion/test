@@ -1,1 +1,2 @@
 like
+fetch 하면?
